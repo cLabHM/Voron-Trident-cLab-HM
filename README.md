@@ -6,7 +6,7 @@ Since our Printers are actively being improved and maintained since fixable desi
 
 - Motherboard: [BTT Octopus](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/) with [BTT TMC2209 Stepper Drivers](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/)
 - Toolhead: [Voron Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
-- Hotend: [Pheatus Dragon x Voron](https://www.phaetus.com/products/phaetus-x-voron-hotend-st)
+- Hotend: [PHAETUS X VORON HOTEND HF](https://www.phaetus.com/products/phaetus-x-voron-hotend-hf)
 - Nozzles:
     - [Stock Nozzle included with the Phaetus Dragon](https://www.phaetus.com/products/plated-copper-nozzle?variant=45199217066261)
     - [Bondtech Coated Brass CHT 0.4](https://www.bondtech.se/product/bondtech-cht-coated-brass-nozzle/)
