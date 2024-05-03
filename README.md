@@ -24,7 +24,7 @@ Since our Printers are actively being improved and maintained since fixable desi
 # Self made Mods designed by the c.Lab Team
 
 - Heatsink for Extruder (based on 40x40x11mm Heatsinks)
-- A thinner because of better flexibility longer lasting thin Latch Lever for the Clockwork2
+- Modified the Clockwork2 to accept the thinner version of the extruder Lever, because of higher durability
 
 # Original README Voron Trident
 **[CLICK HERE TO DOWNLOAD](https://voron.zip/done/VT.zip)**
