@@ -25,10 +25,10 @@ sudo apt autoremove -y
 # 2. Zeitzone auf Europa/Berlin setzen
 sudo timedatectl set-timezone Europe/Berlin
 
-# 3. Deutsche Locale aktivieren
-sudo sed -i 's/^# de_DE.UTF-8 UTF-8/de_DE.UTF-8 UTF-8/' /etc/locale.gen
-sudo locale-gen de_DE.UTF-8
-sudo update-locale LANG=de_DE.UTF-8
+# 3. Englische Locale aktivieren
+sudo sed -i 's/^# en_GB.UTF-8 UTF-8/en_GB.UTF-8 UTF-8/' /etc/locale.gen
+sudo locale-gen en_GB.UTF-8
+sudo update-locale LANG=en_GB.UTF-8
 
 # 4. Hostname anpassen (hier: raspberrypi)
 sudo hostnamectl set-hostname raspberrypi
