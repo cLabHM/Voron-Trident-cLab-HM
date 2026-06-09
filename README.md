@@ -1,4 +1,4 @@
-# Voron Trident c.Lab HM
+# Voron Trident cLab HM
 The [Voron Design Trident](https://github.com/VoronDesign/Voron-Trident) 250mm with all the mods currently installed and running in the Tridents of the cLab
 For additional Documentation refer to the [Voron Design Website](https://vorondesign.com/voron_trident)
 
