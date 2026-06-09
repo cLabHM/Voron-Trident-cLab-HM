@@ -20,6 +20,7 @@ Since our Printers are actively being improved and maintained since fixable desi
 - [Voron Tap V2 by Chaotic Lab](https://github.com/Chaoticlab/CNC-Tap-for-Voron/)
 - [Fabaccess Integration for Klipper](https://github.com/Tengo10/fabaccess_klipper)
 - [Knomi V2](https://github.com/bigtreetech/KNOMI) (for one of them at least)
+- [Voron Bowden ptfe tube guide arm and canbus cable support by Galvanic](https://www.printables.com/model/978123-voron-bowden-ptfe-tube-guide-arm-and-canbus-cable)
 
 # Self made Mods designed by the c.Lab Team
 
